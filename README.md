@@ -1,6 +1,6 @@
 # Santa-River-database
 Contiene 3 files con la siguiente información basica
-  1. Kfactor-30m.zipel
+  1. Kfactor-30m.zip
   Contiene un raster del factor K para la ecuación RUSLE
   - Area: cuenca del río Santa
   - Resolución: 30m pixel size
